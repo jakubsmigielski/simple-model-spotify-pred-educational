@@ -1,6 +1,6 @@
-## Spotify Song Popularity Prediction Testing Model
+## Spotify Song Popularity Prediction Testing Model 
 
-A machine learning project focused on predicting the commercial success `track_popularity` of Spotify songs based on their intrinsic features and artist attributes.
+A machine learning simple model focused on predicting the commercial success `track_popularity` of Spotify songs based on their intrinsic features and artist attributes.
 
 ##  Project Goal
 
@@ -26,6 +26,7 @@ The **Feature Importance** analysis (see chart in `/charts`) highlighted that Ar
 <p align="center">
   <img src="gif/demo.gif" alt="Demonstracja działania" width="430" />
 </p>
+
 
 
 
