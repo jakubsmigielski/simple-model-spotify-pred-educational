@@ -24,6 +24,7 @@ The low R² value (~0.38) is not a reflection of model error, but of the inheren
 The **Feature Importance** analysis (see chart in `/charts`) highlighted that Artist Followers and Artist Popularity are the strongest predictors, far outweighing objective audio features like energy or danceability.
 
 <p align="center">
-  <img src="gif/demo.gif" alt="Demonstracja działania" width="700" />
+  <img src="gif/demo.gif" alt="Demonstracja działania" width="500" />
 </p>
+
 
